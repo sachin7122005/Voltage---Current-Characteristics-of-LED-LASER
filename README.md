@@ -59,11 +59,11 @@ Key points:
 
 ## TABULATION LED Characteristics (850 nm)
 
-<img width="1552" height="1600" alt="image" src="https://github.com/user-attachments/assets/fd569381-53dd-448e-9f79-87f84690c93b" />
+<img width="1280" height="1067" alt="image" src="https://github.com/user-attachments/assets/2a5181e8-0f6b-4974-baba-6ffd3855e3d2" />
 <img width="1200" height="1600" alt="Laser" src="https://github.com/user-attachments/assets/2c3bfdae-b491-4496-8090-f404c79241db" />
 
 ## TABULATION LASER Characteristics (1310 nm)
-<img width="1496" height="1456" alt="image" src="https://github.com/user-attachments/assets/a3a5fc3e-329d-4c9a-b80a-02f818110908" />
+<img width="1600" height="1454" alt="WhatsApp Image 2026-06-02 at 1 46 39 PM" src="https://github.com/user-attachments/assets/9366e467-6e8c-4ef3-a58e-b1c6b1c15108" />
 
 ---
 
